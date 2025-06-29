@@ -130,6 +130,7 @@ img {
 
 .project-card h3:hover {
      color: #ea580c;
+     transform: scale(1.05);
 }
 
 footer {
